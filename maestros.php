@@ -21,23 +21,6 @@
             <div class="item"><img src="img/maestro.jpg"  alt="" style="height: 350px; width: 250px"></div>
             <div class="item"><img src="img/maestro.jpg"  alt="" style="height: 350px; width: 250px"></div>
         </div>
-
-
-
-<!--        <div class="col-md-8 h-50">
-            <div class="owl-carousel owl-theme">
-                <div id="item" >
-                    <img src="img/maestro.jpg"  alt="" style="height: 310px; width: 200px">
-                </div>
-                <div id="item" >
-                    <img src="img/maestro.jpg"  alt="" style="height: 310px; width: 200px; margin: 0 0 0 125px">
-                </div>
-                <div id="item" >
-                    <img src="img/maestro.jpg"  alt="" style="height: 310px; width: 200px; margin: 0 0 0 250px">
-                </div>
-
-            </div>
-        </div>-->
     </div>
 </div>
 
